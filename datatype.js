@@ -3,12 +3,6 @@ let y=3;
 let z=4;
 let j=5;
 
-// Check the data type of each unassigned variable
-console.log( typeof x);
-console.log(typeof y);
-console.log( typeof z);
-console.log( typeof j);
-
 // Declare four variables with assigned values
 let stringVar = "Yes, Jane!";
 let numberVar = 42;
