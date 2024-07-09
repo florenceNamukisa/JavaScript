@@ -32,3 +32,19 @@ let yourAge = 30;
 // Log the ages to the browser console
 console.log('I am', 25, 'years old.');
 console.log("I am 30 years old")
+let shoppingList = ["bananas", "mangoes", "oranges"]
+console.log( "Here is shopping list:",shoppingList);
+
+// const primeNumbers = [2,3,5,7,11]
+// console.log(primeNumbers);
+
+// let countries = ["Uganda", "Kenya", "Rwanda"]
+// console.log(countries)
+
+// let profile = ["Florence",
+//     25,
+//     true,
+//     {country: "uganda",city: "Kampala"},
+//     {Skills:["word",  "HTML", "CSS","JavaScript"]}
+//   ]
+//   console.log(profile);
