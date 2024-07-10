@@ -143,3 +143,16 @@ let student = "John Doe"
 console.log(student.toLowerCase())
 let student2 = "john doe"
 console.log(student === student2)
+
+let newNumber = prompt("enter a number")
+//let invalid ="invalid number"
+switch(true){
+    case (newNumber >0):
+    console.log(`${ newNumber} is a positive number`)
+    break;
+    case (newNumber<0):
+        console.log(`${newNumber} is a negative`)
+        break;
+        default:
+            console.log("number is invalid")
+}
